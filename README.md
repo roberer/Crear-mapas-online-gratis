@@ -1,5 +1,9 @@
 # 💡🗺️ Crear mapas sin GIS ni programar
 
+Por Rober J
+
+[![](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://roberer.github.io)[![](https://img.shields.io/badge/Portfolio?style=for-the-badge&logo=github)](https://roberer.github.io)[![](https://img.shields.io/badge/@roberer_-white?style=for-the-badge&labelColor=blue&logo=Twitter&logoColor=white)](https://twitter.com/roberer_)[![](https://img.shields.io/badge/Roberto-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/robertojl)
+
 Resumiendo, hay 4 formas de hacer mapas: a mano, con un sistema de información geográfica (GIS), programando... <b>y usando una de las siguientes soluciones no code en la nube con las que cualquiera puede generar un mapa en cuestión de minutos:</b>
 
 
