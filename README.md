@@ -1,4 +1,4 @@
-# 💡🗺️ <br> Crear mapas sin GIS ni programar
+# Crear mapas sin GIS ni programar 💡🗺️
 
 Por Rober J
 
