@@ -19,6 +19,10 @@ Resumiendo, hay 4 formas de hacer mapas: a mano, con un sistema de información 
 
 > Genial aplicación para crear mapas sencillos y muy vistosos añadiendo geometrías gracias a las imágenes y las capas provistas por National Geographic
 
+#### <a rel="noreferrer noopener" href="https://azgaar.github.io/Fantasy-Map-Generator/" target="_blank">Azgaar's Fantasy Map Generator</a> 
+
+> Herramienta para crear mapas imaginarios de estilo medieval-fantástico
+
 #### <a rel="noreferrer noopener" href="https://pdfmapmaker.com/" target="_blank">PDF Map Maker</a>
 
 > Una sencilla pero fantástica aplicación con la que generar sencillos mapas en formato PDF a partir mapas base con opciones de inclinacoón, rotación, escala y tamaño de impresión
