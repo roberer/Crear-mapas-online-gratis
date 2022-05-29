@@ -1,10 +1,10 @@
-# Crear mapas sin GIS ni programar 💡🗺️
+# Crear mapas online gratis 💡🗺️
 
 Por Rober J
 
 [![](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://roberer.github.io)[![](https://img.shields.io/badge/Portfolio?style=for-the-badge&logo=github)](https://roberer.github.io)[![](https://img.shields.io/badge/@roberer_-white?style=for-the-badge&labelColor=blue&logo=Twitter&logoColor=white)](https://twitter.com/roberer_)[![](https://img.shields.io/badge/Roberto-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/robertojl)
 
-Resumiendo, hay 4 formas de hacer mapas: a mano, con un sistema de información geográfica (GIS), programando... <b>y usando una de las siguientes soluciones no code en la nube con las que cualquiera puede generar un mapa en cuestión de minutos:</b>
+Resumiendo, hay 4 formas de hacer mapas: a mano, con un sistema de información geográfica (GIS), programando... <b>y usando una de las siguientes soluciones no code en la nube con las que cualquiera puede generar un mapa en cuestión de minutos, sin tener que usar GIS ni programar:</b>
 
 
 #### <a rel="noreferrer noopener" href="https://www.mapchart.net/" target="_blank">Mapchart</a>
@@ -39,11 +39,7 @@ Resumiendo, hay 4 formas de hacer mapas: a mano, con un sistema de información 
 
 > Otra alternativa a la edición de mapas sobre un lienzo con la posibilidad de dibujar geometrías y añadir tus propios geodatos
 
+#### <a href="https://www.visme.co/es/mapas/" target="_blank" rel="noreferrer noopener">Visme</a>
 
-#### <a rel="noreferrer noopener" href="https://developer.here.com/products/platform/studio" target="_blank">Here Studio</a> 
+> Visme es una plataforma gratuita (también con planes de pago) que provee plantillas para hacer mapas sencillos y vistosos
 
-> Una propuesta avanzada (y de pago) para crear mapas online de mano de una veterana como Here
-
-#### <a rel="noreferrer noopener" href="https://www.arcgis.com/home/index.html" target="_blank">ArcGIS Online</a> 
-
-> La plataforma para hacer mapas interactivos online de Esri. Cuenta con un gran catálogo de geodatis. También  es de pago
